@@ -2,3 +2,4 @@ Vagrantfile
 *.ini
 .vagrant/
 .idea/
+*.pyc
