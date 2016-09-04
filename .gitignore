@@ -1,0 +1,4 @@
+Vagrantfile
+*.ini
+.vagrant/
+.idea/
